@@ -58,3 +58,4 @@ plt.xlabel('x-data')
 plt.ylabel('y-data')
 plt.legend(['Regression Line','Data points'])
 # Output 
+![image](https://github.com/Supraja0510/Correlation_Regression/assets/155217478/2edde48c-4733-44eb-8388-2bfa445c27d6)
